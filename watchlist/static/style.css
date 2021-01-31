@@ -115,8 +115,8 @@ input[name=year]{
     padding: 7px;
     margin: 7px 0;
     border: 1px solid transparent;
-    color: #004085;
-    background-color: #b8daff;
+    color: #fd0101;
+    background-color: #c5c5c5;
     border-radius: 5px;
 }
 .inline-form{
